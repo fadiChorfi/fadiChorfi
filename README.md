@@ -44,6 +44,8 @@ Built 10+ screens with cart, wishlist, and geolocation-based checkout.
 
 ## 📊 GitHub Stats
 
+> 💡 Many of my contributions are in private or client repositories.
+
 <!-- GitHub Readme Stats (optional; enable if you'd like) -->
 ![Fadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadiChorfi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadiChorfi&layout=compact&theme=radical)
