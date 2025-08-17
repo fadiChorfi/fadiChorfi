@@ -41,7 +41,7 @@ Built 10+ screens with cart, wishlist, and geolocation-based checkout.
 - Mentoring juniors & sharing knowledge  
 - Open-source contribution & collaboration
 ---
-
+---
 ## 📊 GitHub Stats
 
 > 💡 Many of my contributions are in private or client repositories.
