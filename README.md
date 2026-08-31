@@ -11,7 +11,7 @@
 
 - **Frontend:** React, Next.js, Tailwind CSS, Shadcn/UI  
 - **Mobile:** React Native + Expo  
-- **Backend:** Node.js, Express.js, PostgreSQL, Supabase, Prisma, Drizzle  
+- **Backend:** Node.js, Express.js, PostgreSQL, Supabase, Prisma, Drizzle, Python 
 - **Design Tools:** Figma, App Eraser  
 - **Other Tools:** Git & GitHub, REST APIs, System Design, Agile
 
